@@ -1,0 +1,5 @@
+Sistema operativo: base donde corre Node.js.
+Node.js: entorno de ejecución del servidor.
+server.js: archivo principal del servidor.
+Puerto: canal de comunicación (3000).
+Logs: registros de actividad del sistema.

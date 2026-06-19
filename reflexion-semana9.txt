@@ -1,0 +1,5 @@
+Los servidores permiten que las plataformas funcionen de manera estable.
+Node.js ayuda a crear aplicaciones rápidas.
+El puerto permite comunicación entre usuario y servidor.
+Los logs ayudan a detectar errores.
+La estabilidad es importante para la comunidad.
